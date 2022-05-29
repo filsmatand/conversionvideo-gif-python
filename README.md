@@ -1,1 +1,1 @@
-# conversionvideo-gif-python.
+# conversionvideo-gif-python
